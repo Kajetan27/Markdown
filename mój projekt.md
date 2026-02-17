@@ -1,3 +1,5 @@
+🏎️ Projekt Serwisu Internetowego BMW
+🏗️ Architektura Stron i Treść
 1. Strona Główna (index.html)
 Hero Section: Duże, wysokiej jakości zdjęcie flagowego modelu BMW X3.
 
